@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item android:id="@+id/action_datepicker"
+        android:icon="@drawable/ic_action_go_to_today"
+        android:title="@string/action_datepicker"
+        yourapp:showAsAction="ifRoom" />
+    <item android:id="@+id/action_share"
+        android:icon="@drawable/ic_action_share"
+        android:title="@string/action_share"
+        yourapp:showAsAction="ifRoom" />
+    <item android:id="@+id/action_outline"
+
+        android:title="@string/action_outline"
+        yourapp:showAsAction="ifRoom" />
+    <item android:id="@+id/action_conduct"
+
+        android:title="@string/action_conduct"
+        yourapp:showAsAction="ifRoom" />
+    <item android:id="@+id/action_anthem"
+
+        android:title="@string/action_anthem"
+        yourapp:showAsAction="ifRoom" />
+    <item android:id="@+id/action_subgroup"
+
+        android:title="@string/action_subgroup"
+        yourapp:showAsAction="ifRoom" />
+    <item android:id="@+id/action_devotional"
+
+        android:title="@string/action_devotional"
+        yourapp:showAsAction="ifRoom" />
+    <item android:id="@+id/action_feedback"
+
+        android:title="@string/action_feedback"
+        yourapp:showAsAction="ifRoom" />
+    <item android:id="@+id/action_about"
+        android:icon="@drawable/ic_action_about"
+        android:title="@string/action_about"
+        yourapp:showAsAction="ifRoom" />
+</menu>
